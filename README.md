@@ -1,4 +1,3 @@
-CSIS2450
-testing 
+GIT PROJECT CLOSE
 
-Now we are playing around with the readme file. 
+NEW PROJECT Open - Project Proposal
